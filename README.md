@@ -1,4 +1,4 @@
-﻿# For-Angry-GirlFriend
+
 
 This project is a fun and interactive web application that displays lyrics with a balloon animation effect. Users can also send personalized messages through a separate page. I made this specially for my angry girlfriend. 
 
