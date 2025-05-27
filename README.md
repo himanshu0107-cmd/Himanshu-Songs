@@ -16,8 +16,7 @@ You can use EmailJS to enable the email-sending feature. Currently, I've impleme
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/pinakkk/For-Angry-GirlFriend
-    cd For-Angry-GirlFriend
+    
     ```
 
 2. **Open the project**:
